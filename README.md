@@ -11,7 +11,6 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations".
 
-In this repository is folder with raw data (fictional company, license: https://ride.divvybikes.com/data-license-agreement) and Rmd file with report. 
-I used RStudio 2022.07.2 Build 576, R version 4.2.0.\
+In this repository is link to raw data(fictional company, license: https://ride.divvybikes.com/data-license-agreement), link to clean data and Rmd file with report. I limited the github version of the project to R code. I used RStudio 2022.07.2 Build 576, R version 4.2.0.\
 Enjoy!
 
