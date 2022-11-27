@@ -8,7 +8,7 @@ of marketing believes the company’s future success depends on maximizing the n
 your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
 your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
-visualizations".\
+visualizations".
 
 In this repository is folder with raw data (fictional company, license: https://ride.divvybikes.com/data-license-agreement) and Rmd file with report. 
 I used RStudio 2022.07.2 Build 576, R version 4.2.0.\
